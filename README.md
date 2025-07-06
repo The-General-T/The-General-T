@@ -21,7 +21,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🌱 Current Focus
 
-- 🔭 Working on Savline Network! Consisting of several different servers including Minecraft and Grand Theft Auto.
+- 🔭 Working as much as I can, doing side projects often!
 - 📖 Learning System Administration.
 
 ---
